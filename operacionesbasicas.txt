@@ -28,4 +28,5 @@ return Math.pow(a,b);
 
 int raiz(int a){
 return Math.pow(a, 1/2);
+//sin correcciones 201403564
 }
