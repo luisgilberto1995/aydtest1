@@ -23,6 +23,7 @@ return a/b;
 
 int potencia(int a, int b){
 return Math.pow(a,b);
+//sin correcciones
 }
 
 int raiz(int a){
