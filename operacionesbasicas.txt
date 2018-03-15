@@ -10,6 +10,7 @@ return a*b;
 
 int resta (int a, int b){
 return a-b;
+//sin correcciones 201403794
 }
 
 int dividir(int a, int b){
