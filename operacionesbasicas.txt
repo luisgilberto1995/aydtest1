@@ -22,6 +22,7 @@ return 0;
 }else{
 return a/b;
 }
+//sin correcciones 201403794
 }
 
 int potencia(int a, int b){
